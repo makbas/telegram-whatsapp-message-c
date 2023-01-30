@@ -16,7 +16,7 @@
 #include <unistd.h>
 #include <openssl/ssl.h>
 #include <openssl/bio.h>
-#include "tlslib.h"
+#include "message.h"
 
 static SSL_CTX* ctx;
 static BIO* bio;
