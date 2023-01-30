@@ -68,7 +68,6 @@ int connectTLS(const char* host, const char* port)
     // creates a new BIO chain
     bio = BIO_new_ssl_connect(ctx);
 
-//    snprintf(server, sizeof(server), "%s:%s", tlgServer, tlgPort);
     snprintf(server, sizeof(server), "%s:%s", host, port);
     printf("hostname: %s\n", server);
 
