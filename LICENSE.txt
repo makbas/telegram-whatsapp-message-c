@@ -1,0 +1,9 @@
+ ******************************************************************************/
+ *  Copyright:   2023 mr.ma                                                   *
+ *                                                                            *
+ *  Permission to use, copy, modify, merge, publish, distribute, sublicense,  *
+ *  is hereby granted, free of charge, to any person obtaining a copy of this *
+ *  software subject to the following conditions:                             *
+ *                                                                            *
+ *  The above copyright notice and this permission notice shall be included.  *
+ ******************************************************************************/
