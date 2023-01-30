@@ -19,10 +19,6 @@
 #define FAIL  0
 #define SUCCESS  1
 
-#define WUP_HOST    "api.callmebot.com"
-#define WUP_APIKEY  "4968426"
-#define WUP_PHONE   "+905325170051"
-
 /**
  * function: initTLS
  * initialize the SSL library and
